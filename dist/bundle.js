@@ -14471,7 +14471,7 @@ function(e, t, n) {
                     alt: "person img",
                     className: "person"
                 }), u.
-            default.createElement("h1", null, "刘德华的个人", this.props.title), u.
+            default.createElement("h1", null, "大帅哥的个人", this.props.title), u.
             default.createElement("label", {
                     className: "responsive-nav",
                     onClick: this.setResponsiveNav.bind(this)
@@ -14646,9 +14646,9 @@ function(e, t, n) {
                     className: "iconfont icon-markdown"
                 }), "Markdown笔记:"), u.
             default.createElement("a", {
-                    href: "https://xiaohuazai.github.io/"
+                    href: "https://yichuan.github.io/"
                 },
-                "https://xiaohuazai.github.io/")), u.
+                "https://yichuan.github.io/")), u.
             default.createElement("dd", null, u.
             default.createElement("a", {
                     href: ""
