@@ -14471,7 +14471,7 @@ function(e, t, n) {
                     alt: "person img",
                     className: "person"
                 }), u.
-            default.createElement("h1", null, "大帅哥的个人", this.props.title), u.
+            default.createElement("h1", null, "刘德华的个人", this.props.title), u.
             default.createElement("label", {
                     className: "responsive-nav",
                     onClick: this.setResponsiveNav.bind(this)
@@ -14585,7 +14585,7 @@ function(e, t, n) {
                     className: "iconfont icon-biaoti"
                 }), "基本信息"), u.
             default.createElement("dd", null, u.
-            default.createElement("span", null, "个人信息:"), "大帅哥 / 男 / 24岁"), u.
+            default.createElement("span", null, "个人信息:"), "刘德华 / 男 / 24岁"), u.
             default.createElement("dd", null, u.
             default.createElement("span", null, "毕业院校:"), "美国哈弗大学"), u.
             default.createElement("dd", null, u.
@@ -14904,7 +14904,7 @@ function(e, t, n) {
                     alt: "person img",
                     className: "person"
                 }), u.
-            default.createElement("h1", null, "大帅哥的个人", this.props.title), u.
+            default.createElement("h1", null, "刘德华的个人", this.props.title), u.
             default.createElement(c.Link, {
                     to: "/",
                     activeClassName: "leftNav-active",
