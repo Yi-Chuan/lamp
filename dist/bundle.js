@@ -14467,11 +14467,11 @@ function(e, t, n) {
             default.createElement("div", null, u.
             default.createElement("header", null, u.
             default.createElement("img", {
-                    src: "http://omfmbv825.bkt.clouddn.com/2_02.png",
+                    src: "./dist/face.png",
                     alt: "person img",
                     className: "person"
                 }), u.
-            default.createElement("h1", null, "大帅哥的个人", this.props.title), u.
+            default.createElement("h1", null, "刘德华的个人", this.props.title), u.
             default.createElement("label", {
                     className: "responsive-nav",
                     onClick: this.setResponsiveNav.bind(this)
@@ -14606,22 +14606,22 @@ function(e, t, n) {
             default.createElement("span", null, u.
             default.createElement("i", {
                     className: "iconfont icon-phone"
-                }), "联系电话:"), "12345678901"), u.
+                }), "联系电话:"), "13701383017"), u.
             default.createElement("dd", null, u.
             default.createElement("span", null, u.
             default.createElement("i", {
                     className: "iconfont icon-weixin"
-                }), "联系微信:"), "xiaohuazai"), u.
+                }), "联系微信:"), "13701383017"), u.
             default.createElement("dd", null, u.
             default.createElement("span", null, u.
             default.createElement("i", {
                     className: "iconfont icon-QQ"
-                }), "联系QQ:"), "12345678"), u.
+                }), "联系QQ:"), "394853810"), u.
             default.createElement("dd", null, u.
             default.createElement("span", null, u.
             default.createElement("i", {
                     className: "iconfont icon-gmail"
-                }), "联系邮箱:"), "xiaohuazai@gmail.com"), u.
+                }), "联系邮箱:"), "yichuanlamp@gmail.com"), u.
             default.createElement("dd", null, u.
             default.createElement("span", null, u.
             default.createElement("i", {
